@@ -19,30 +19,30 @@ Using genetic algorithms Starcraft learns the best build order it can use. (Prot
 
 **Installs you have to do before you start:**
 
-		•	JAVA JDK 8th edition – in both main PC and the Virtual Machines.
-		
-		•	Oracle Virtual Box (and open 2 Virtual Machines).
-		
-		•	Windows 7 (or above) for both Virtual Machines.
-		
-		•	Starcraft: Brood War version 1.16.1 in both Virtual Machines.
-		
-		•	BWAPI version 4.1.2, download [here](https://github.com/bwapi/bwapi/releases/tag/v4.1.2)
-		
-		•	BWTA version 2.2, instructions [here](https://bitbucket.org/auriarte/bwta2/downloads)
-		
-		•	Tournament Manager, instructions to install are [here](http://webdocs.cs.ualberta.ca/~cdavid/starcraftaicomp/tm.shtml)
-		
-		Important – compile the source code and check that you have both server.jar and client.jar
-		Put the client folder inside both Virtual Machines in the StarcraftAI/tournamentManager folder.
+	•	JAVA JDK 8th edition – in both main PC and the Virtual Machines.
+	
+	•	Oracle Virtual Box (and open 2 Virtual Machines).
+	
+	•	Windows 7 (or above) for both Virtual Machines.
+	
+	•	Starcraft: Brood War version 1.16.1 in both Virtual Machines.
+	
+	•	BWAPI version 4.1.2, download [here](https://github.com/bwapi/bwapi/releases/tag/v4.1.2)
+	
+	•	BWTA version 2.2, instructions [here](https://bitbucket.org/auriarte/bwta2/downloads)
+	
+	•	Tournament Manager, instructions to install are [here](http://webdocs.cs.ualberta.ca/~cdavid/starcraftaicomp/tm.shtml)
+	
+	Important – compile the source code and check that you have both server.jar and client.jar
+	Put the client folder inside both Virtual Machines in the StarcraftAI/tournamentManager folder.
 
 **How to install:**
 Main PC:
 
-		•	Organize your directory library like that:
-		
-		o	C:/StarcraftAI/
-		
+	•	Organize your directory library like that:
+	
+	o	C:/StarcraftAI/
+	
 		BWAPI 
 
 		BWTAlib_2.2
@@ -96,6 +96,13 @@ Virtual Machines:
 	•	Install BitVise Server – instructions [here](https://www.bitvise.com/ssh-server-download)
 
 **How To Run:**
+
 After all the installations and configurations have been made, open up both of the virtual machines and make sure BitVise server is up and running.
 Now open command prompt as an administrator, and in the main directory execute this command:
 java –jar evolution.jar -file "%Project_Path%/src/starcract.params"
+
+**You can enjoy a demonstration video [here](https://www.dropbox.com/s/gre2j2zk6j1hvn4/SC.flv?dl=0)**
+
+**Have Fun!**
+
+![image](https://dl.dropboxusercontent.com/u/96757029/SCdemo.jpg)

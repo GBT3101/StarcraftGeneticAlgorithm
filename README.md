@@ -8,9 +8,13 @@ Using genetic algorithms Starcraft learns the best build order it can use. (Prot
 ![image](https://dl.dropboxusercontent.com/u/96757029/SCoverview.PNG)
 
 **Minimal Requirements to run:**
+
 •	CPU:		Intel CPU Pentium III.
+
 •	GPU:		Geforce 6200 LE / Radeon Xpress 1200 Series.
+
 •	RAM:		8GB
+
 •	HDD Space: 	64GB
 
 **Installs you have to do before you start:**
@@ -18,7 +22,7 @@ Using genetic algorithms Starcraft learns the best build order it can use. (Prot
 		•	Oracle Virtual Box (and open 2 Virtual Machines).
 		•	Windows 7 (or above) for both Virtual Machines.
 		•	Starcraft: Brood War version 1.16.1 in both Virtual Machines.
-		•	BWAPI version 4.1.2, download [here](https://github.com/bwapi/bwapi/releases/tag/v4.1.2 (Both main PC and Virtual Machines)
+		•	BWAPI version 4.1.2, download [here](https://github.com/bwapi/bwapi/releases/tag/v4.1.2)
 		•	BWTA version 2.2, instructions [here](https://bitbucket.org/auriarte/bwta2/downloads)
 		•	Tournament Manager, instructions to install are [here](http://webdocs.cs.ualberta.ca/~cdavid/starcraftaicomp/tm.shtml)
 		Important – compile the source code and check that you have both server.jar and client.jar

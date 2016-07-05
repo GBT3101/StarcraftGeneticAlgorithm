@@ -101,9 +101,9 @@ After all the installations and configurations have been made, open up both of t
 Now open command prompt as an administrator, and in the main directory execute this command:
 java –jar evolution.jar -file "%Project_Path%/src/starcract.params"
 
-**You can enjoy a demonstration video here:** 
+**You can enjoy a demonstration video here:** (press to watch)
 
-![video](https://www.dropbox.com/s/gre2j2zk6j1hvn4/SC.flv?dl=0)
+[![screenshot](https://dl.dropboxusercontent.com/u/96757029/SCvid.PNG)](https://www.dropbox.com/s/gre2j2zk6j1hvn4/SC.flv?dl=0)
 
 **Have Fun!**
 

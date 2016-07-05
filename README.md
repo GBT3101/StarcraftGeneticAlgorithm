@@ -27,11 +27,11 @@ Using genetic algorithms Starcraft learns the best build order it can use. (Prot
 	
 	-	Starcraft: Brood War version 1.16.1 in both Virtual Machines.
 	
-	-	BWAPI version 4.1.2, download [here](https://github.com/bwapi/bwapi/releases/tag/v4.1.2)
+	-	BWAPI version 4.1.2, download here - https://github.com/bwapi/bwapi/releases/tag/v4.1.2
 	
-	-	BWTA version 2.2, instructions [here](https://bitbucket.org/auriarte/bwta2/downloads)
+	-	BWTA version 2.2, instructions here - https://bitbucket.org/auriarte/bwta2/downloads
 	
-	-	Tournament Manager, instructions to install are [here](http://webdocs.cs.ualberta.ca/~cdavid/starcraftaicomp/tm.shtml)
+	-	Tournament Manager, instructions to install are here - http://webdocs.cs.ualberta.ca/~cdavid/starcraftaicomp/tm.shtml
 	
 	Important – compile the source code and check that you have both server.jar and client.jar
 	Put the client folder inside both Virtual Machines in the StarcraftAI/tournamentManager folder.
@@ -93,7 +93,7 @@ Virtual Machines:
 
 	o	Server Address (line 33) – type your Main PC IP address.
 
-	•	Install BitVise Server – instructions [here](https://www.bitvise.com/ssh-server-download)
+	•	Install BitVise Server – instructions here - https://www.bitvise.com/ssh-server-download
 
 **How To Run:**
 

@@ -18,7 +18,7 @@ Using genetic algorithms Starcraft learns the best build order it can use. (Prot
 •	Oracle Virtual Box (and open 2 Virtual Machines).
 •	Windows 7 (or above) for both Virtual Machines.
 •	Starcraft: Brood War version 1.16.1 in both Virtual Machines.
-•	BWAPI version 4.1.2, download [here](https://github.com/bwapi/bwapi/releases/tag/v4.1.2 (Both main PC and Virtual Machines).
+•	BWAPI version 4.1.2, download [here](https://github.com/bwapi/bwapi/releases/tag/v4.1.2 (Both main PC and Virtual Machines)
 •	BWTA version 2.2, instructions [here](https://bitbucket.org/auriarte/bwta2/downloads)
 (Both main PC and Virtual Machines).
 •	Tournament Manager, instructions to install are [here](http://webdocs.cs.ualberta.ca/~cdavid/starcraftaicomp/tm.shtml)

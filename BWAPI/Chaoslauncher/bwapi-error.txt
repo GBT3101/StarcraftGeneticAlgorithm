@@ -1,0 +1,8 @@
+[2016/06/17 - 08:17:01] Unable to open BWAPI config file. - 00000002: The system cannot find the file specified.
+
+[2016/06/17 - 08:17:01] Unable to open BWAPI config file. - 00000002: The system cannot find the file specified.
+
+[2016/06/17 - 08:17:10] Unable to find C:\StarcraftTest\\bwapi-data\BWAPI.dll. - 00000003: The system cannot find the path specified.
+
+[2016/06/17 - 08:18:31] Unable to open BWAPI config file. - 00000002: The system cannot find the file specified.
+

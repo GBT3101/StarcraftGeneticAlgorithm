@@ -1,0 +1,16 @@
+problem\StarCraftBuildOrderProblem.class
+functions\Add.class
+utils\Utils.class
+scripts\ServerAndClientInitializationScript.class
+functions\Mul.class
+functions\IFGTE.class
+Main.class
+evaluator\EncapsulatedIndividual.class
+scripts\FilesUtils.class
+evaluator\IndComparator.class
+evaluator\ThreeWayCompetitive.class
+functions\Sub.class
+terminals\ExistingZelots.class
+gPDataTypes\IntData.class
+utils\Defs.class
+tests\Testing.class

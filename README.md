@@ -9,13 +9,13 @@ Using genetic algorithms Starcraft learns the best build order it can use. (Prot
 
 **Minimal Requirements to run:**
 
-•	CPU:		Intel CPU Pentium III.
+	•	CPU:		Intel CPU Pentium III.
 
-•	GPU:		Geforce 6200 LE / Radeon Xpress 1200 Series.
+	•	GPU:		Geforce 6200 LE / Radeon Xpress 1200 Series.
 
-•	RAM:		8GB
+	•	RAM:		8GB
 
-•	HDD Space: 	64GB
+	•	HDD Space: 	64GB
 
 **Installs you have to do before you start:**
 
@@ -43,57 +43,57 @@ Main PC:
 		
 		o	C:/StarcraftAI/
 		
-	BWAPI 
+		BWAPI 
 
-	BWTAlib_2.2
+		BWTAlib_2.2
 
-	TournamentManager
+		TournamentManager
 
-•	Set these environment variables:
+	•	Set these environment variables:
 
-o	BWAPI_DIR = “C:\StarcraftAI\BWAPI”
+	o	BWAPI_DIR = “C:\StarcraftAI\BWAPI”
 
-o	BWTA_DIR = “C:\starcraftAI\BWTAlib_2.2”
+	o	BWTA_DIR = “C:\starcraftAI\BWTAlib_2.2”
 
-o	Add to your path:
+	o	Add to your path:
 
-	“; C:\starcraftAI\TournamentManager\server”
+		“; C:\starcraftAI\TournamentManager\server”
 
-•	Server Settings:
+	•	Server Settings:
 
-o	Unzip bots.zip into the server\bots directory.
+	o	Unzip bots.zip into the server\bots directory.
 
-o	Replace server.jar with the one we provided, since we had to make some changes to the way the server works.
+	o	Replace server.jar with the one we provided, since we had to make some changes to the way the server works.
 
-o	Replace Server_settings.ini with the one we provided.
+	o	Replace Server_settings.ini with the one we provided.
 
-•	Edit Properties.ini
+	•	Edit Properties.ini
 
-o	Player_one_ip – enter the ip of the #1 Virtual Machine.
+	o	Player_one_ip – enter the ip of the #1 Virtual Machine.
 
-o	Player_two_ip – enter the ip of the #2 Virtual Machine.
+	o	Player_two_ip – enter the ip of the #2 Virtual Machine.
 
-o	Player_one_username – enter the username of the #1 Virtual Machine.
+	o	Player_one_username – enter the username of the #1 Virtual Machine.
 
-o	Player_two_username – enter the username of the #2 Virtual Machine.
+	o	Player_two_username – enter the username of the #2 Virtual Machine.
 
-o	Player_one_password – enter the windows password of the #1 Virtual Machine.
+	o	Player_one_password – enter the windows password of the #1 Virtual Machine.
 
-o	Player_two_password – enter the windows password of the #2 Virtual Machine.
+	o	Player_two_password – enter the windows password of the #2 Virtual Machine.
 
 Virtual Machines:
 
-•	Install StarCraft: Brood War version 1.16.1, installation path should be C:\Starcraft\
+	•	Install StarCraft: Brood War version 1.16.1, installation path should be C:\Starcraft\
 
-•	Run BWAPI/ChaosLauncher/chaoslauncher.exe, in the settings tab change “installpath” to “C:\Starcraft\”.
+	•	Run BWAPI/ChaosLauncher/chaoslauncher.exe, in the settings tab change “installpath” to “C:\Starcraft\”.
 
-•	Put “libgmp-10.dll” and “libmpfr-4.dll” in your windows folder, you will find these DLL files in your BWTAlib2.2/windows folder.
+	•	Put “libgmp-10.dll” and “libmpfr-4.dll” in your windows folder, you will find these DLL files in your BWTAlib2.2/windows folder.
 
-•	Edit C:\StarcraftAI\TournamentManager\Client\Client_Settings.ini:
+	•	Edit C:\StarcraftAI\TournamentManager\Client\Client_Settings.ini:
 
-o	Server Address (line 33) – type your Main PC IP address.
+	o	Server Address (line 33) – type your Main PC IP address.
 
-•	Install BitVise Server – instructions [here](https://www.bitvise.com/ssh-server-download)
+	•	Install BitVise Server – instructions [here](https://www.bitvise.com/ssh-server-download)
 
 **How To Run:**
 After all the installations and configurations have been made, open up both of the virtual machines and make sure BitVise server is up and running.

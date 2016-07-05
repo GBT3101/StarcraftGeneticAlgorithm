@@ -19,19 +19,19 @@ Using genetic algorithms Starcraft learns the best build order it can use. (Prot
 
 **Installs you have to do before you start:**
 
-	•	JAVA JDK 8th edition – in both main PC and the Virtual Machines.
+	-	JAVA JDK 8th edition – in both main PC and the Virtual Machines.
 	
-	•	Oracle Virtual Box (and open 2 Virtual Machines).
+	-	Oracle Virtual Box (and open 2 Virtual Machines).
 	
-	•	Windows 7 (or above) for both Virtual Machines.
+	-	Windows 7 (or above) for both Virtual Machines.
 	
-	•	Starcraft: Brood War version 1.16.1 in both Virtual Machines.
+	-	Starcraft: Brood War version 1.16.1 in both Virtual Machines.
 	
-	•	BWAPI version 4.1.2, download [here](https://github.com/bwapi/bwapi/releases/tag/v4.1.2)
+	-	BWAPI version 4.1.2, download [here](https://github.com/bwapi/bwapi/releases/tag/v4.1.2)
 	
-	•	BWTA version 2.2, instructions [here](https://bitbucket.org/auriarte/bwta2/downloads)
+	-	BWTA version 2.2, instructions [here](https://bitbucket.org/auriarte/bwta2/downloads)
 	
-	•	Tournament Manager, instructions to install are [here](http://webdocs.cs.ualberta.ca/~cdavid/starcraftaicomp/tm.shtml)
+	-	Tournament Manager, instructions to install are [here](http://webdocs.cs.ualberta.ca/~cdavid/starcraftaicomp/tm.shtml)
 	
 	Important – compile the source code and check that you have both server.jar and client.jar
 	Put the client folder inside both Virtual Machines in the StarcraftAI/tournamentManager folder.

@@ -7,6 +7,10 @@ Using genetic algorithms Starcraft learns the best build order it can use. (Prot
 **Flow Overview:**
 ![image](https://dl.dropboxusercontent.com/u/96757029/SCoverview.PNG)
 
+**You can enjoy a demonstration video here:** (press to watch)
+
+[![screenshot](https://dl.dropboxusercontent.com/u/96757029/SCvid.PNG)](https://www.dropbox.com/s/gre2j2zk6j1hvn4/SC.flv?dl=0)
+
 **Minimal Requirements to run:**
 
 	•	CPU:		Intel CPU Pentium III.
@@ -101,9 +105,7 @@ After all the installations and configurations have been made, open up both of t
 Now open command prompt as an administrator, and in the main directory execute this command:
 java –jar evolution.jar -file "%Project_Path%/src/starcract.params"
 
-**You can enjoy a demonstration video here:** (press to watch)
 
-[![screenshot](https://dl.dropboxusercontent.com/u/96757029/SCvid.PNG)](https://www.dropbox.com/s/gre2j2zk6j1hvn4/SC.flv?dl=0)
 
 **Have Fun!**
 

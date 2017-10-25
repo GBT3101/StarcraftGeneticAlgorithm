@@ -2,10 +2,10 @@
 Using genetic algorithms Starcraft learns the best build order it can use. (Protoss)
 
 **Architecture:**
-![image](https://www.dropbox.com/s/ph7dpsmhb5mhu6a/SCarc.png?dl=0)
+https://www.dropbox.com/s/ph7dpsmhb5mhu6a/SCarc.png?dl=0
 
 **Flow Overview:**
-![image](https://www.dropbox.com/s/pxxwkhbh5twtmzk/SCoverview.PNG?dl=0)
+https://www.dropbox.com/s/pxxwkhbh5twtmzk/SCoverview.PNG?dl=0
 
 **You can enjoy a demonstration video here:** (press to watch)
 
@@ -109,4 +109,4 @@ java –jar evolution.jar -file "%Project_Path%/src/starcract.params"
 
 **Have Fun!**
 
-![image](https://photos-3.dropbox.com/t/2/AAD4PQF9I7UH1-OoJRGmS0rHfpKAG_nxgp2H_X9eSk7N6w/12/96757029/jpeg/32x32/1/_/1/2/SCdemo.jpg)
+https://www.dropbox.com/s/x87b7cg6lihyegu/SCdemo.jpg?dl=0
